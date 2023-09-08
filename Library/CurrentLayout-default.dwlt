@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 780.8
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 248
+  controlID: 2620
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 249
+  controlID: 2621
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 250
+  controlID: 2622
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -459,9 +459,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2305.4814, y: -944.76904, z: -922.3644}
+    m_Target: {x: 2277.2197, y: -958.7342, z: 1056.3315}
     speed: 2
-    m_Value: {x: -2305.4814, y: -944.76904, z: -922.3644}
+    m_Value: {x: 2277.2197, y: -958.7342, z: 1056.3315}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -508,13 +508,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.102030955, y: -0.8142145, z: 0.1506875, w: 0.55130905}
+    m_Target: {x: -0.15813096, y: -0.52020425, z: 0.09869721, w: -0.8334551}
     speed: 2
-    m_Value: {x: -0.10203075, y: 0.81421286, z: -0.1506872, w: -0.5513079}
+    m_Value: {x: 0.15813096, y: 0.5202043, z: -0.098697215, w: 0.83345515}
   m_Size:
-    m_Target: 1436.0872
+    m_Target: 1631.24
     speed: 2
-    m_Value: 1436.0872
+    m_Value: 1560.9952
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -638,13 +638,13 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Models
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 71
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Models
   m_LastFoldersGridSize: 71
   m_LastProjectPath: C:\Users\kma45\Documents\Game Experiments\Incendium
   m_LockTracker:
@@ -653,7 +653,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 804b0000
     m_LastClickedID: 19328
-    m_ExpandedIDs: 000000007e4b0000
+    m_ExpandedIDs: 000000007a4b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
